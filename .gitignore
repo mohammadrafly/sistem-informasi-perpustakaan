@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE or editor directories
+.idea/
+.vscode/
