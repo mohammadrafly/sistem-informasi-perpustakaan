@@ -40,6 +40,11 @@ Nginstal kebutuh proyek sesuai package.json
 npm install
 ```
 
+### 4. **Import SQL**
+
+Import file SQL di folder sql/sistem_informasi_perpustakaan.sql
+
+
 ## Langkah Menjalankan di local
 
 ### 1. **Dir!**
